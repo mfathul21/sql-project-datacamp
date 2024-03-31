@@ -1,1 +1,1 @@
-# sql-project-datacamp
+# SQL Project DataCamp
